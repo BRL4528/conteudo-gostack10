@@ -1,0 +1,91 @@
+body {
+    background: #eee;
+    font-family: Arial, Helvetica, sans-serif;
+}
+header{
+    align-items: center;
+    background: #0154a0;
+    margin-bottom: 10px;
+    color: white;
+}
+.face {
+    width: 121px;
+      
+}
+.user {
+    width: 34px;
+    position: relative;
+    margin: 7px 20px 5px 10px;
+   
+  
+}
+.textUser {
+    margin: none;
+    float: right;
+     align-items: center;
+     display: flex;
+}
+label {
+    position: relative;
+    margin: 7px 20px 5px 20px;
+}
+.listPost {
+    width: 60%;
+    background-color: white;
+    text-align: center;
+    padding: 14px;
+    margin: 0 237px 20px 237px;
+    border-radius: 5px;
+    box-shadow: 5px 5px 5px rgba(192, 192, 192, 0.77)
+
+}
+.imgPost{
+    width: 35px;
+    border-radius: 50%;
+    position: absolute;
+}
+.imgPostCommit{
+    width: 35px;
+    border-radius: 50%;
+    position: absolute;
+    margin: -28px 20px 50px -75px;
+}
+.divCommit {
+    position: relative;
+    text-align: left;
+    padding: 25px;
+    background-color: #eee;
+    border-radius: 15px;
+    margin-bottom: 10px;
+}
+.MargemBotton{
+    border-bottom: 1px solid #c1c9d1;
+    margin-bottom: 10px;
+}
+.divContainerCommit {
+    text-align: left;
+    padding: 25px;
+}
+.divContainerPost{
+
+    width: 100px;
+    height: 100px;
+}
+.dataPost{
+
+    color: rgba(116, 116, 116, 0.52);
+}
+.diviInteContainePost{
+    text-align: left;
+    padding: 25px;
+}
+.diviSpaceImg{
+    margin-bottom: 15px;
+}
+.divData{
+    margin-left: 30px;
+}
+.divStrong{
+    margin-left: 50px;
+}
+
